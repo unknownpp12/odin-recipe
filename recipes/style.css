@@ -1,0 +1,18 @@
+div{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:30px;
+    color:black;
+    background-color:grey;
+}
+h1,h2{
+    color:red;
+    background-color:aqua;
+}
+ul,ol{
+    color:aquamarine;
+    background-color: black;
+}
+img{
+    height: auto;
+    font-weight: 100;
+}
