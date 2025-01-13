@@ -1,18 +1,48 @@
-div{
-    font-family: 'Courier New', Courier, monospace;
+.para{
+    font-family: sans-serif,serif,Arial, Helvetica, sans-serif;
     font-size:30px;
     color:black;
-    background-color:grey;
+    background-color:white;
+    margin:5px 0px;
+    padding:10px 10px;
+    border:5px 5px;
+    box-sizing:border-box;
+    display:block;
 }
-h1,h2{
-    color:red;
-    background-color:aqua;
+.lists{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+    background-color:white;
 }
-ul,ol{
-    color:aquamarine;
-    background-color: black;
+
+ul{
+    color:black;
+    margin:5px 0px;
+    font-size:30px;
+    background-color: grey
+}
+ol{
+    color:black;
+    margin:5px 0px;
+    font-size: 30px;
+    background-color: grey
 }
 img{
-    height: auto;
+ margin-left:200px;
+ padding:5px 5px;
+ border: 5px;
+
+}
+a{
+    font-size: 60px;
+}
+h1{
+    color:black;
+    background-color: aqua;
     font-weight: 100;
+}
+h2{
+    color:black;
+    font-weight: 100;
+    background-color:aqua;
 }
