@@ -4,8 +4,8 @@
     font-size:30px;
     color:black;
     background-color:white;
-    margin:5px 0px;
-    padding:10px 10px;
+    margin:5px 5px;
+    padding:0px 0px;
     border:5px 5px;
     box-sizing:border-box;
     display:block;
@@ -25,24 +25,14 @@ h2{
     background-color:grey;
 }
 
-ul{
+li{
     color:black;
-    margin:5px 0px;
     padding:5px ;
     font-size:30px;
-    background-color: white;
-}
-ol{
-    color:black;
-    margin:5px 0px;
-    font-size: 30px;
-    padding:5px;
-    background-color: white;
-}
+    background-color: white;}
 img{
  margin-left:200px;
  padding:5px 5px;
- border: 5px;
 
 }
 a{
