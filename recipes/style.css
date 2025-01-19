@@ -3,7 +3,7 @@
     font-family: sans-serif,serif,Arial, Helvetica, sans-serif;
     font-size:30px;
     color:black;
-    background-color:white;
+    background-color:rgb(219, 255, 153);
     margin:5px 5px;
     padding:0px 0px;
     border:5px 5px;
@@ -30,7 +30,7 @@ li{
     padding:5px ;
     font-size:30px;
     margin:auto;
-    background-color: white;}
+    background-color: rgb(161, 175, 255);}
 img{
  margin-left:200px;
  padding:5px 5px;
@@ -38,5 +38,10 @@ img{
 }
 a{
     font-size: 60px;
-    
+    color:black;
+    background-color: rgb(255, 144, 144);
+
+}
+html{
+    background-color: blanchedalmond;
 }
