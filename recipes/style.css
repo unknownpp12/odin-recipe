@@ -3,7 +3,7 @@
     font-family: sans-serif,serif,Arial, Helvetica, sans-serif;
     font-size:30px;
     color:black;
-    background-color:rgb(219, 255, 153);
+    background-color:rgb(154, 203, 208);
     margin:5px 5px;
     padding:0px 0px;
     border:5px 5px;
@@ -13,7 +13,7 @@ h1{
     text-align: center;;
     color:black;
     font-size:50px;
-    background-color: grey;
+    background-color: rgb(41, 115, 178);
     font-weight: 100;
 }
 h2{
@@ -22,7 +22,7 @@ h2{
     font-size:50px;
     color:black;
     font-weight: 100;
-    background-color:grey;
+    background-color:rgb(72, 166, 167);
 }
 
 li{
@@ -30,7 +30,7 @@ li{
     padding:5px ;
     font-size:30px;
     margin:auto;
-    background-color: rgb(161, 175, 255);}
+    background-color: rgb(154, 203, 208);}
 img{
  margin-left:200px;
  padding:5px 5px;
@@ -39,9 +39,9 @@ img{
 a{
     font-size: 60px;
     color:black;
-    background-color: rgb(255, 144, 144);
+    background-color: rgb(242, 239, 231);
 
 }
 html{
-    background-color: blanchedalmond;
+    background-color: rgb(242, 239, 231);
 }
